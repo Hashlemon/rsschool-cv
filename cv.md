@@ -21,11 +21,11 @@ _Hard-skills_
 * CSS3 (3/5), Bootstrap (2/5)
 * JS ES6 (2/5)
 * Linux Shell (3/5), SSH (3/5), GPG (3/5), FTP (4/5) and other deployment/server-side skills 
-* SQL (2/5)
+* SQL (2/5) 
 * Node.js (1/5)
 * NPM (3/5)
 * Webpack (1/5)
-* Python (Django), Nginx, Flask: (1/5)
+* Python 3 (Django), Nginx, Flask: (1/5)
 * Raspberry Pi (IoT) (3/5)
 
 _Soft-skills_
@@ -46,6 +46,12 @@ var Ball = function(ballType) {
   this.ballType == "super" ? this.ballType = "super" : this.ballType = "regular"
 };
 ```
+
+Education 
+---------
+![Image](https://github.com/Hashlemon/django/blob/master/Screenshot%20from%202021-09-07%2018-13-02.png)
+![Image](https://github.com/Hashlemon/django/blob/master/Screenshot%20from%202021-09-07%2018-12-57.png)
+
 
 English
 -------
